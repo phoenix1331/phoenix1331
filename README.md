@@ -40,7 +40,7 @@ Tells you whether a photo is a hot dog using Jev's image input: a Noul question 
 <br>
 <a href="https://github.com/phoenix1331/laravel-ai-headroom"><img src="images/headroom.webp" alt="Headroom: know how much room your AI request has left before you send it"></a>
 <p><b><a href="https://github.com/phoenix1331/laravel-ai-headroom">Headroom</a></b><br>
-Counts an agent's whole request before it is sent and blocks it if it would go over the context window or your budget.</p>
+Counts an agent's whole request before it is sent and blocks it if it would go over the context window or your budget. A <a href="https://github.com/phoenix1331/filament-headroom">Filament dashboard</a> shows AI spend, context usage and blocked requests.</p>
 <a href="https://packagist.org/packages/phoenix1331/laravel-ai-headroom"><img src="https://img.shields.io/packagist/v/phoenix1331/laravel-ai-headroom?style=flat-square&label=packagist" alt="Packagist version"></a>
 <a href="https://packagist.org/packages/phoenix1331/laravel-ai-headroom/stats"><img src="https://img.shields.io/packagist/dt/phoenix1331/laravel-ai-headroom?style=flat-square&label=downloads" alt="Total downloads"></a>
 <a href="https://github.com/phoenix1331/laravel-ai-headroom/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/phoenix1331/laravel-ai-headroom/tests.yml?style=flat-square&label=tests" alt="Tests"></a>
