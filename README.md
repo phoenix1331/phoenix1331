@@ -26,6 +26,15 @@ Senior PHP developer (Laravel and Symfony), AWS Certified Developer, Newport, So
 <tr>
 <td width="33%" valign="top">
 <br>
+<a href="https://github.com/phoenix1331/langchain-mcp-docs-rag-playground"><img src="images/langchain.webp" alt="MCP Docs RAG: agentic RAG with LangChain and LangGraph"></a>
+<p><b><a href="https://github.com/phoenix1331/langchain-mcp-docs-rag-playground">MCP Docs RAG</a></b><br>
+Agentic RAG over the Model Context Protocol spec, built with LangChain and LangGraph. Version-aware answers with citations, hybrid search with Voyage reranking, a streaming UI that shows its working, and evals that measure every retrieval change.</p>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/coverage-100%25-2ea44f?style=flat-square" alt="Coverage 100%">
+</td>
+<td width="33%" valign="top">
+<br>
 <a href="https://github.com/phoenix1331/echdyn"><img src="images/echdyn.webp" alt="Echdyn: self-hosted document extraction with local LLMs"></a>
 <p><b><a href="https://github.com/phoenix1331/echdyn">Echdyn</a></b><br>
 Self-hosted document extraction with local LLMs. Turns PDFs and scanned paperwork into validated, structured data using Ollama, with business-rule validation, human review and an eval harness that publishes accuracy per field and per model.</p>
@@ -43,6 +52,8 @@ A local-only Go CLI that hides secrets and PII in logs, <code>.env</code> files 
 <a href="https://github.com/phoenix1331/cuddio/actions/workflows/test.yml"><img src="https://img.shields.io/github/actions/workflow/status/phoenix1331/cuddio/test.yml?style=flat-square&label=tests" alt="Tests"></a>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <br>
 <a href="https://github.com/phoenix1331/laravel-jev-hotdog"><img src="images/jev-hotdog.webp" alt="Jev hot dog playground: is it a hot dog?"></a>
@@ -51,8 +62,6 @@ Tells you whether a photo is a hot dog using Jev's image input: a Noul question 
 <a href="https://github.com/phoenix1331/laravel-jev-hotdog/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/phoenix1331/laravel-jev-hotdog/ci.yml?style=flat-square&label=CI" alt="CI"></a>
 <img src="https://img.shields.io/badge/Laravel-13-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 13">
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <br>
 <a href="https://github.com/phoenix1331/laravel-ai-headroom"><img src="images/headroom.webp" alt="Headroom: know how much room your AI request has left before you send it"></a>
@@ -71,6 +80,8 @@ Classifies any Eloquent model with Jev and routes each item to passed, flagged f
 <a href="https://packagist.org/packages/phoenix1331/laravel-jev-moderation/stats"><img src="https://img.shields.io/packagist/dt/phoenix1331/laravel-jev-moderation?style=flat-square&label=downloads" alt="Total downloads"></a>
 <a href="https://github.com/phoenix1331/laravel-jev-moderation/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/phoenix1331/laravel-jev-moderation/tests.yml?style=flat-square&label=tests" alt="Tests"></a>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <br>
 <a href="https://github.com/phoenix1331/laravel-jev-exam-marking"><img src="images/jev-exam-marking.webp" alt="Jev and Laravel exam marking"></a>
@@ -79,8 +90,6 @@ A decision model marks the answers, code applies the rules, and a human makes th
 <a href="https://phoenix1331.github.io/laravel-jev-exam-marking/"><img src="https://img.shields.io/badge/showcase-live-2ea44f?style=flat-square" alt="Live showcase"></a>
 <img src="https://img.shields.io/badge/Laravel-13-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 13">
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <br>
 <a href="https://github.com/phoenix1331/laravel-docs-rag-playground"><img src="images/docs-rag.webp" alt="Laravel docs RAG answer with citations"></a>
@@ -97,6 +106,8 @@ Everything a person can do in the browser is also an MCP tool for an AI client, 
 <a href="https://github.com/phoenix1331/laravel-mcp-invoicing-playground/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/phoenix1331/laravel-mcp-invoicing-playground/ci.yml?style=flat-square&label=CI" alt="CI"></a>
 <img src="https://img.shields.io/badge/laravel%2Fmcp-OAuth_2.1-555?style=flat-square" alt="laravel/mcp with OAuth 2.1">
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <br>
 <a href="https://github.com/phoenix1331/laravel-auth-audit"><img src="images/auth-audit.webp" alt="Laravel Auth Audit: finding endpoints with missing authorisation"></a>
@@ -105,6 +116,23 @@ Scans routes, controllers, Form Requests and Policies to find endpoints that che
 <a href="https://packagist.org/packages/phoenix1331/laravel-auth-audit"><img src="https://img.shields.io/packagist/v/phoenix1331/laravel-auth-audit?style=flat-square&label=packagist" alt="Packagist version"></a>
 <a href="https://packagist.org/packages/phoenix1331/laravel-auth-audit/stats"><img src="https://img.shields.io/packagist/dt/phoenix1331/laravel-auth-audit?style=flat-square&label=downloads" alt="Total downloads"></a>
 <a href="https://github.com/phoenix1331/laravel-auth-audit/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/phoenix1331/laravel-auth-audit/tests.yml?style=flat-square&label=tests" alt="Tests"></a>
+</td>
+<td width="33%" valign="top">
+<br>
+<a href="https://github.com/phoenix1331/laravel-env-audit"><img src="images/env-audit.webp" alt="Laravel Env Audit HTML report"></a>
+<p><b><a href="https://github.com/phoenix1331/laravel-env-audit">Env Audit</a></b><br>
+Catches <code>env()</code> calls outside <code>config/</code> that break silently after <code>config:cache</code>, drift from <code>.env.example</code>, and likely secrets committed to it.</p>
+<a href="https://packagist.org/packages/phoenix1331/laravel-env-audit"><img src="https://img.shields.io/packagist/v/phoenix1331/laravel-env-audit?style=flat-square&label=packagist" alt="Packagist version"></a>
+<a href="https://packagist.org/packages/phoenix1331/laravel-env-audit/stats"><img src="https://img.shields.io/packagist/dt/phoenix1331/laravel-env-audit?style=flat-square&label=downloads" alt="Total downloads"></a>
+<a href="https://github.com/phoenix1331/laravel-env-audit/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/phoenix1331/laravel-env-audit/tests.yml?style=flat-square&label=tests" alt="Tests"></a>
+</td>
+<td width="33%" valign="top">
+<br>
+<a href="https://github.com/phoenix1331/dysgu-cymraeg"><img src="images/cymru.webp" alt="Dysgu Cymraeg: a Welsh course as an Obsidian vault"></a>
+<p><b><a href="https://github.com/phoenix1331/dysgu-cymraeg">Dysgu Cymraeg</a></b><br>
+A free, self-study Welsh course packaged as an Obsidian vault: grammar, vocabulary, dialogues, graded reading, songs, weekly assessments and a daily-practice generator. Beginner (A1) to conversational (B1) in about 12 weeks.</p>
+<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian">
+<img src="https://img.shields.io/badge/A1_to_B1-12_weeks-2ea44f?style=flat-square" alt="A1 to B1 in 12 weeks">
 </td>
 </tr>
 </table>
